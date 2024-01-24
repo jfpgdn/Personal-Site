@@ -1,0 +1,34 @@
+body {
+  background-color: #e3fdfd;
+  margin: 0;
+}
+h1,h2 {
+  color: #71c9ce;
+}
+img {
+  width: 85px;
+  height: 85px;
+}
+.p-special {
+  text-align: justify;
+}
+.top-portion {
+  background-color: purple;
+  padding:5px;
+}
+.mid-portion-1 {
+  background-color: orange;
+  padding:5px;
+}
+.mid-portion-2 {
+  background-color: brown;
+  padding:5px;
+}
+.mid-portion-3 {
+  background-color: violet;
+  padding:5px;
+}
+.buttom-portion {
+  background-color: green;
+  padding:5px;
+}
